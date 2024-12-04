@@ -1,0 +1,19 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samin",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress-each": "^1.14.0",
+    "glob": "^11.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}

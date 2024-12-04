@@ -1,0 +1,61 @@
+{
+    "formdata": [
+        {
+            "testCaseNumber": "Test Case 1",
+            "testCaseName": "Login user with correct username & password (using \"Make Appointment'\" button)",
+            "username": "John Doe",
+            "password": "ThisIsNotAPassword"
+        },
+        {
+            "testCaseNumber": "Test Case 2",
+            "testCaseName": "Login user with correct username & password (using \"Login\" button from ToggleBar",
+            "username": "John Doe",
+            "password": "ThisIsNotAPassword"
+        },
+        {
+            "testCaseNumber": "Test Case 3.1",
+            "testCaseName": "Login user with incorrect username & password",
+            "username": "Samuel Paul",
+            "password": "WrongPassword1"
+        },
+        {
+            "testCaseNumber": "Test Case 3.2",
+            "testCaseName": "Login user with incorrect username & password",
+            "username": "Rina Rose",
+            "password": "WrongPassword2"
+        },
+        {
+            "testCaseNumber": "Test Case 3.3",
+            "testCaseName": "Login user with incorrect username & password",
+            "username": "Jassie Williams",
+            "password": "WrongPassword3"
+        },
+        {
+            "testCaseNumber": "Test Case 4",
+            "testCaseName": "Logout user & verify",
+            "username": "John Doe",
+            "password": "ThisIsNotAPassword"
+        },
+        {
+            "testCaseNumber": "Test Case 5",
+            "testCaseName": "Making Appointment",
+            "username": "John Doe",
+            "password": "ThisIsNotAPassword",
+            "facility": "Hongkong CURA Healthcare Center",
+            "hospitalReadmission": "yes",
+            "healthcareProgram": "None",
+            "visitDate": "22/03/2024",
+            "comment": "Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. "
+        },
+        {
+            "testCaseNumber": "Test Case 6",
+            "testCaseName": "Checking history",
+            "username": "John Doe",
+            "password": "ThisIsNotAPassword",
+            "facility": "Seoul CURA Healthcare Center",
+            "healthcareProgram": "Medicare",
+            "visitDate": "01/09/2023",
+            "comment": "Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. "
+        }
+    ]
+}
